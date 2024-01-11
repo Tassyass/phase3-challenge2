@@ -65,5 +65,5 @@ Restaurant.fanciest() - Returns the restaurant with the highest price
 Restaurant.all_reviews() - Returns a list of strings with all reviews for the restaurant
  
 ## Author
-mohammed salad
+Tasniim Yasin
 # phase-3-challenge2
